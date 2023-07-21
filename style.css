@@ -1,5 +1,5 @@
 .container{
-	max-width: auto;
+	max-width: 574px;
 }
 body{
 	margin:0;
@@ -14,7 +14,7 @@ body{
 	grid-template-rows: 240px 240px 240px;
 }
 .img{
-	width: 150px;
+	width: 200px;
 }
 .item{
 	text-align: center;
