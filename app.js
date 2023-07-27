@@ -5,12 +5,12 @@ tg.MainButton.color = "#2cab37";
 
 
 let item = "";
-let bnt1 = document.getElementById("btn1");
-let bnt2 = document.getElementById("btn2");
-let bnt3 = document.getElementById("btn3");
-let bnt4 = document.getElementById("btn4");
-let bnt5 = document.getElementById("btn5");
-let bnt6 = document.getElementById("btn6");
+let btn1 = document.getElementById("btn1");
+let btn2 = document.getElementById("btn2");
+let btn3 = document.getElementById("btn3");
+let btn4 = document.getElementById("btn4");
+let btn5 = document.getElementById("btn5");
+let btn6 = document.getElementById("btn6");
 
 btn1.addEventLictener("click", function(){
 	if(tg.MainButton.isVisible){
