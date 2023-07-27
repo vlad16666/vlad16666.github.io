@@ -23,7 +23,7 @@ dia screen and (max-width: 390px){
 		padding: 30px 30px;
 		border:none;
 		border-radius: 10px;
-		background: rgb(248,168,24);
+		background: rgb(80, 50, 168);
 		color: #3a5c43;
 		text-transform: uppercase;
 		font-weight: 700;
@@ -61,7 +61,7 @@ dia screen and (max-width: 390px){
 		padding: 10px 20px;
 		border:none;
 		border-radius: 10px;
-		background: rgb(248,168,24);
+		background: rgb(80, 50, 168);
 		color: #fff;
 		text-transform: uppercase;
 		font-weight: 700;
@@ -99,7 +99,7 @@ dia screen and (max-width: 390px){
 		padding: 10px 20px;
 		border:none;
 		border-radius: 10px;
-		background: rgb(248,168,24);
+		background: rgb(80, 50, 168);
 		color: #fff;
 		text-transform: uppercase;
 		font-weight: 700;
