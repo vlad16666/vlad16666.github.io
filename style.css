@@ -11,7 +11,7 @@ body{
 .inner{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-rows: 280px 280px 280px;
+	grid-template-rows: 250px 250px 250px;
 }
 .img{
 	width: 150px;
@@ -28,7 +28,7 @@ body{
 	color: #3a5c43;
 	text-transform: uppercase;
 	font-weight: 700;
-	height: 10px;
+	height: 7px;
 	transition:  background .2s linear;
 }
 .btn:hover{
