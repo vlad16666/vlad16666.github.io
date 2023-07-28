@@ -28,7 +28,7 @@ body{
 	color: #3a5c43;
 	text-transform: uppercase;
 	font-weight: 700;
-	height: 30px;
+	height: 10px;
 	transition:  background .2s linear;
 }
 .btn:hover{
