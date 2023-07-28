@@ -28,7 +28,6 @@ body{
 	color: #3a5c43;
 	text-transform: uppercase;
 	font-weight: 700;
-	height: 7px;
 	transition:  background .2s linear;
 }
 .btn:hover{
@@ -36,4 +35,7 @@ body{
 }
 .usercard{
 	text-align: center;
+}
+.btnd{
+	height:10px;
 }
